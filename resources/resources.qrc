@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>cursor.png</file>
+        <file>tool box.png</file>
+    </qresource>
+</RCC>
